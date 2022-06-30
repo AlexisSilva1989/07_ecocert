@@ -1,0 +1,1 @@
+ALTER TABLE worldcert_mandanten ADD `ManRegistrierungsnummer` varchar(120) NOT NULL;

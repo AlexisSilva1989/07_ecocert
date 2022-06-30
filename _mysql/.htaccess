@@ -1,0 +1,6 @@
+# Diese Datei verhindert den Zugriff auf das aktuelle Verzeichnis, so dass
+# die Dateien dieses Ordners nicht über das Internet aufgerufen werden können.
+#
+# Herbert Torsten - 04. September 2002
+
+Deny From All
